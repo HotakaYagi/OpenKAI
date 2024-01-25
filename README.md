@@ -3,6 +3,8 @@
 </p>
 
 ## OpenKAI: A modern framework for unmanned vehicle and robot control
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHotakaYagi%2FOpenKAI.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FHotakaYagi%2FOpenKAI?ref=badge_shield)
+
 OpenKAI (Kinetic AI) is an open-source framework that realize rapid development of unmanned vehicles and robots that incorporate AI, sensors, actuators, etc.. OpenKAI is light weight to run on embedded hardwares. A simple and unified multi-threading modular architecture written purely in C++ makes it highly customizable for versatile applications and easily expanded to support new devices.
 
 We are keep adding supports for sensors and actuators available on market from hackable modules to industry solutions. The supported devices can be used easily as an abstracted object in OpenKAI. We welcome contributions from vendors to provide evaluation device, as well as coders from open-source community.
@@ -62,3 +64,7 @@ and more are coming.
 ## Showcase of Solutions
 
 Updating...
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FHotakaYagi%2FOpenKAI.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FHotakaYagi%2FOpenKAI?ref=badge_large)
